@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\SumK\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Student\Desktop\SumK\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Student\Desktop\SumK\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Student\Desktop\SumK\bin\Debug\SumK.dll
+C:\Users\Student\Desktop\SumK\bin\Debug\SumK.pdb
+C:\Users\Student\Desktop\SumK\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Student\Desktop\SumK\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Student\Desktop\SumK\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Student\Desktop\SumK\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Student\Desktop\SumK\obj\Debug\SumK.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\SumK\obj\Debug\SumK.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SumK\obj\Debug\SumK.csproj.CopyComplete
+C:\Users\Student\Desktop\SumK\obj\Debug\SumK.dll
+C:\Users\Student\Desktop\SumK\obj\Debug\SumK.pdb
+C:\Users\Student\Desktop\SumK\bin\Debug\SumK.csv

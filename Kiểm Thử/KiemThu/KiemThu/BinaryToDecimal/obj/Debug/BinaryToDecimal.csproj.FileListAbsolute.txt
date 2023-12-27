@@ -1,0 +1,15 @@
+T:\BinaryToDecimal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+T:\BinaryToDecimal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+T:\BinaryToDecimal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+T:\BinaryToDecimal\bin\Debug\BinaryToDecimal.dll
+T:\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+T:\BinaryToDecimal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+T:\BinaryToDecimal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+T:\BinaryToDecimal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+T:\BinaryToDecimal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+T:\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojAssemblyReference.cache
+T:\BinaryToDecimal\obj\Debug\BinaryToDecimal.csproj.CoreCompileInputs.cache
+T:\BinaryToDecimal\obj\Debug\BinaryToDecimal.csproj.CopyComplete
+T:\BinaryToDecimal\obj\Debug\BinaryToDecimal.dll
+T:\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
+T:\BinaryToDecimal\bin\Debug\data.csv

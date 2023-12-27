@@ -1,0 +1,14 @@
+T:\TranKhanhLinh\UnitTestProjectBDCL1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+T:\TranKhanhLinh\UnitTestProjectBDCL1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+T:\TranKhanhLinh\UnitTestProjectBDCL1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+T:\TranKhanhLinh\UnitTestProjectBDCL1\bin\Debug\UnitTestProjectBDCL1.dll
+T:\TranKhanhLinh\UnitTestProjectBDCL1\bin\Debug\UnitTestProjectBDCL1.pdb
+T:\TranKhanhLinh\UnitTestProjectBDCL1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+T:\TranKhanhLinh\UnitTestProjectBDCL1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+T:\TranKhanhLinh\UnitTestProjectBDCL1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+T:\TranKhanhLinh\UnitTestProjectBDCL1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+T:\TranKhanhLinh\UnitTestProjectBDCL1\obj\Debug\UnitTestProjectBDCL1.csprojAssemblyReference.cache
+T:\TranKhanhLinh\UnitTestProjectBDCL1\obj\Debug\UnitTestProjectBDCL1.csproj.CoreCompileInputs.cache
+T:\TranKhanhLinh\UnitTestProjectBDCL1\obj\Debug\UnitTestProjectBDCL1.csproj.CopyComplete
+T:\TranKhanhLinh\UnitTestProjectBDCL1\obj\Debug\UnitTestProjectBDCL1.dll
+T:\TranKhanhLinh\UnitTestProjectBDCL1\obj\Debug\UnitTestProjectBDCL1.pdb

@@ -1,0 +1,5 @@
+﻿sbin, isSymmetry, BinaryToDe, EX
+101 , true , 5 , false
+111 , true , 7 , false
+100 , false , 4 , false
+1a , , , true

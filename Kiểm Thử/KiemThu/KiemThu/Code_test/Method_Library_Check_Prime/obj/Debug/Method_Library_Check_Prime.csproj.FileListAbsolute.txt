@@ -1,0 +1,15 @@
+T:\KiemThu\Code_test\Method_Library_Check_Prime\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+T:\KiemThu\Code_test\Method_Library_Check_Prime\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+T:\KiemThu\Code_test\Method_Library_Check_Prime\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+T:\KiemThu\Code_test\Method_Library_Check_Prime\bin\Debug\Method_Library_Check_Prime.dll
+T:\KiemThu\Code_test\Method_Library_Check_Prime\bin\Debug\Method_Library_Check_Prime.pdb
+T:\KiemThu\Code_test\Method_Library_Check_Prime\bin\Debug\MethodLibrary.dll
+T:\KiemThu\Code_test\Method_Library_Check_Prime\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+T:\KiemThu\Code_test\Method_Library_Check_Prime\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+T:\KiemThu\Code_test\Method_Library_Check_Prime\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+T:\KiemThu\Code_test\Method_Library_Check_Prime\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+T:\KiemThu\Code_test\Method_Library_Check_Prime\obj\Debug\Method_Library_Check_Prime.csprojAssemblyReference.cache
+T:\KiemThu\Code_test\Method_Library_Check_Prime\obj\Debug\Method_Library_Check_Prime.csproj.CoreCompileInputs.cache
+T:\KiemThu\Code_test\Method_Library_Check_Prime\obj\Debug\Method_Library_Check_Prime.csproj.CopyComplete
+T:\KiemThu\Code_test\Method_Library_Check_Prime\obj\Debug\Method_Library_Check_Prime.dll
+T:\KiemThu\Code_test\Method_Library_Check_Prime\obj\Debug\Method_Library_Check_Prime.pdb
